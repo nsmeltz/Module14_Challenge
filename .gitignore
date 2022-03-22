@@ -1,5 +1,5 @@
 # Ignore the data folder bc file too big
-resources/
+Resources/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
