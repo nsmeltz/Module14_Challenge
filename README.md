@@ -1,6 +1,6 @@
 # Overview of the analysis: 
 The purpose of this analysis is to create a story in Tableau and show a variety of visualizations about the CitiBikes August 2019 dataset.                       
-Click here to see my [Tableau Story](https://public.tableau.com/views/Module14_CitiBikeChallenge/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Click here to see my [CitiBikes Tableau Story](https://public.tableau.com/shared/S837PZH3J?:display_count=n&:origin=viz_share_link)
 
 # Results: 
 ## Page 1: August 2019 Summary
